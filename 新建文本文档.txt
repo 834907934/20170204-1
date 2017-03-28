@@ -1,0 +1,8 @@
+一：图一在水浒传多次进程自动结束;
+二：图二在玩斗地主过程中自动结束，被强制退出后，被锁在房间里，只有回合结束了，才能进行登录。
+三：图三在斗地主过程中还会出现GetThreadContext failed错误。也是被强制跳出游戏。
+四：图四就是进程结束了被锁在房间了的图。
+五：图五进程加载中出现GetThreadContext failed错误。
+六：图六突然响应超时。
+七：图七在牛牛中也会发生GetThreadContext failed错误
+八：图八在主页面也会发生GetThreadContext failed错误
